@@ -14,7 +14,7 @@ import java.util.ArrayList;
  *         multiple algorithms and let client application pass the algorithm to
  *         be used as a parameter.
  *         </p>
- *
+ *         https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial
  */
 
 interface PaymentStrategy {
